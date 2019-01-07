@@ -1,3 +1,4 @@
+package com.simple.binary;
 
 public class Student {
     private String name;
